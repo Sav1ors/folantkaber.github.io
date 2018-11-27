@@ -98,7 +98,7 @@ p{ font-family: 'open_sansregular'; font-size: 14px; line-height: 22px; color: #
    ========================================================================== */
 
 
-.site-header{overflow: hidden; padding: 60px 0; text-align: center;}
+.site-header{overflow: hidden; padding: 20px 0; text-align: center;}
 .logo{
     margin:0 auto;
     display: inline-block;
@@ -177,14 +177,14 @@ p{ font-family: 'open_sansregular'; font-size: 14px; line-height: 22px; color: #
    General styles starts here
    ========================================================================== */
     .featured-heading{background: #ab0000; padding: 55px 0; text-align: center;
-                        text-transform: uppercase; margin-bottom: 90px;}
+                        text-transform: uppercase; margin-bottom: 0;}
     .featured-heading h1{color: #fff; font-size: 22px; line-height: 40px;
                         font-family: 'open_sansbold';}
     .featured-objects{ padding: 100px 0; text-align: center;}
     .featured-objects .block{}
 
     
-    .featured-block {border-radius:5px; background: #fff; overflow: hidden; margin-bottom: 30px; 
+    .featured-block {border-radius: 100px; background: #fff; overflow: hidden; margin-bottom: 30px;
         -moz-box-shadow:   0px 0px 10px 1px #aaa;
   -webkit-box-shadow: 0px 0px 10px 1px #aaa;
   box-shadow: 0px 0px 10px 1px #aaa;}
@@ -200,7 +200,7 @@ p{ font-family: 'open_sansregular'; font-size: 14px; line-height: 22px; color: #
                                         font-weight: normal; text-transform: uppercase; text-shadow: none; letter-spacing: 1px;
                                            border:none; }
     .featured-block .btn:hover{color: #fff; background: #007ae2;}
-    .featured-content{ background: #007ae2; text-align: center; padding-top: 100px; padding-bottom: 190px; overflow: hidden;}
+    .featured-content{ background: #007ae2; text-align: center; padding-top: 0; padding-bottom: 201px; overflow: hidden;}
     .featured-content h1{color: #fff; font-size: 22px; line-height: 40px; padding-bottom: 20px; text-transform: uppercase;}
     .featured-content p{color: #fff; padding-bottom: 50px;}
     .featured-content .block-content{ background: #259cf8; padding-top: 60px; border-radius: 5px;}
